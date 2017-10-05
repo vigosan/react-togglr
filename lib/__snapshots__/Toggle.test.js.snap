@@ -1,0 +1,926 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Toggle renders its children 1`] = `
+ReactWrapper {
+  "length": 1,
+  Symbol(enzyme.__unrendered__): <Toggle
+    onToggle={[Function]}
+    render={[Function]}
+  >
+    [Function]
+  </Toggle>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__node__): Object {
+    "instance": Toggle {
+      "_reactInternalFiber": FiberNode {
+        "_debugID": 4,
+        "_debugIsCurrentlyTiming": false,
+        "_debugOwner": FiberNode {
+          "_debugID": 3,
+          "_debugIsCurrentlyTiming": false,
+          "_debugOwner": null,
+          "_debugSource": null,
+          "alternate": null,
+          "child": [Circular],
+          "effectTag": 1,
+          "firstEffect": null,
+          "index": 0,
+          "internalContextTag": 0,
+          "key": null,
+          "lastEffect": null,
+          "memoizedProps": Object {
+            "Component": [Function],
+            "context": null,
+            "props": Object {
+              "children": [Function],
+              "onToggle": [Function],
+              "render": [Function],
+            },
+          },
+          "memoizedState": Object {
+            "context": null,
+            "mount": true,
+            "props": Object {
+              "children": [Function],
+              "onToggle": [Function],
+              "render": [Function],
+            },
+          },
+          "nextEffect": null,
+          "pendingProps": null,
+          "pendingWorkPriority": 0,
+          "ref": null,
+          "return": FiberNode {
+            "_debugID": 1,
+            "_debugIsCurrentlyTiming": false,
+            "_debugOwner": null,
+            "_debugSource": null,
+            "alternate": FiberNode {
+              "_debugID": 1,
+              "_debugIsCurrentlyTiming": false,
+              "_debugOwner": null,
+              "_debugSource": null,
+              "alternate": [Circular],
+              "child": null,
+              "effectTag": 0,
+              "firstEffect": null,
+              "index": 0,
+              "internalContextTag": 0,
+              "key": null,
+              "lastEffect": null,
+              "memoizedProps": null,
+              "memoizedState": null,
+              "nextEffect": null,
+              "pendingProps": null,
+              "pendingWorkPriority": 1,
+              "ref": null,
+              "return": null,
+              "sibling": null,
+              "stateNode": Object {
+                "containerInfo": <div />,
+                "context": Object {},
+                "current": [Circular],
+                "isScheduled": false,
+                "nextScheduledRoot": null,
+                "pendingContext": null,
+              },
+              "tag": 3,
+              "type": null,
+              "updateQueue": Object {
+                "callbackList": null,
+                "first": Object {
+                  "callback": null,
+                  "isForced": false,
+                  "isReplace": false,
+                  "isTopLevelUnmount": false,
+                  "next": null,
+                  "partialState": Object {
+                    "element": <WrapperComponent
+                      Component={[Function]}
+                      context={null}
+                      props={
+                        Object {
+                          "children": [Function],
+                          "onToggle": [Function],
+                          "render": [Function],
+                        }
+                      }
+                    />,
+                  },
+                  "priorityLevel": 1,
+                },
+                "hasForceUpdate": false,
+                "isProcessing": false,
+                "last": Object {
+                  "callback": null,
+                  "isForced": false,
+                  "isReplace": false,
+                  "isTopLevelUnmount": false,
+                  "next": null,
+                  "partialState": Object {
+                    "element": <WrapperComponent
+                      Component={[Function]}
+                      context={null}
+                      props={
+                        Object {
+                          "children": [Function],
+                          "onToggle": [Function],
+                          "render": [Function],
+                        }
+                      }
+                    />,
+                  },
+                  "priorityLevel": 1,
+                },
+              },
+            },
+            "child": [Circular],
+            "effectTag": 0,
+            "firstEffect": null,
+            "index": 0,
+            "internalContextTag": 0,
+            "key": null,
+            "lastEffect": null,
+            "memoizedProps": null,
+            "memoizedState": Object {
+              "element": <WrapperComponent
+                Component={[Function]}
+                context={null}
+                props={
+                  Object {
+                    "children": [Function],
+                    "onToggle": [Function],
+                    "render": [Function],
+                  }
+                }
+              />,
+            },
+            "nextEffect": null,
+            "pendingProps": null,
+            "pendingWorkPriority": 0,
+            "ref": null,
+            "return": null,
+            "sibling": null,
+            "stateNode": Object {
+              "containerInfo": <div />,
+              "context": Object {},
+              "current": [Circular],
+              "isScheduled": false,
+              "nextScheduledRoot": null,
+              "pendingContext": null,
+            },
+            "tag": 3,
+            "type": null,
+            "updateQueue": null,
+          },
+          "sibling": null,
+          "stateNode": WrapperComponent {
+            "_reactInternalFiber": [Circular],
+            "_reactInternalInstance": Object {},
+            "context": Object {},
+            "props": Object {
+              "Component": [Function],
+              "context": null,
+              "props": Object {
+                "children": [Function],
+                "onToggle": [Function],
+                "render": [Function],
+              },
+            },
+            "refs": Object {},
+            "state": Object {
+              "context": null,
+              "mount": true,
+              "props": Object {
+                "children": [Function],
+                "onToggle": [Function],
+                "render": [Function],
+              },
+            },
+            "updater": Object {
+              "enqueueForceUpdate": [Function],
+              "enqueueReplaceState": [Function],
+              "enqueueSetState": [Function],
+              "isMounted": [Function],
+            },
+          },
+          "tag": 2,
+          "type": [Function],
+          "updateQueue": null,
+        },
+        "_debugSource": null,
+        "alternate": null,
+        "child": null,
+        "effectTag": 1,
+        "firstEffect": null,
+        "index": 0,
+        "internalContextTag": 0,
+        "key": null,
+        "lastEffect": null,
+        "memoizedProps": Object {
+          "children": [Function],
+          "onToggle": [Function],
+          "render": [Function],
+        },
+        "memoizedState": Object {
+          "on": false,
+        },
+        "nextEffect": null,
+        "pendingProps": null,
+        "pendingWorkPriority": 0,
+        "ref": null,
+        "return": FiberNode {
+          "_debugID": 3,
+          "_debugIsCurrentlyTiming": false,
+          "_debugOwner": null,
+          "_debugSource": null,
+          "alternate": null,
+          "child": [Circular],
+          "effectTag": 1,
+          "firstEffect": null,
+          "index": 0,
+          "internalContextTag": 0,
+          "key": null,
+          "lastEffect": null,
+          "memoizedProps": Object {
+            "Component": [Function],
+            "context": null,
+            "props": Object {
+              "children": [Function],
+              "onToggle": [Function],
+              "render": [Function],
+            },
+          },
+          "memoizedState": Object {
+            "context": null,
+            "mount": true,
+            "props": Object {
+              "children": [Function],
+              "onToggle": [Function],
+              "render": [Function],
+            },
+          },
+          "nextEffect": null,
+          "pendingProps": null,
+          "pendingWorkPriority": 0,
+          "ref": null,
+          "return": FiberNode {
+            "_debugID": 1,
+            "_debugIsCurrentlyTiming": false,
+            "_debugOwner": null,
+            "_debugSource": null,
+            "alternate": FiberNode {
+              "_debugID": 1,
+              "_debugIsCurrentlyTiming": false,
+              "_debugOwner": null,
+              "_debugSource": null,
+              "alternate": [Circular],
+              "child": null,
+              "effectTag": 0,
+              "firstEffect": null,
+              "index": 0,
+              "internalContextTag": 0,
+              "key": null,
+              "lastEffect": null,
+              "memoizedProps": null,
+              "memoizedState": null,
+              "nextEffect": null,
+              "pendingProps": null,
+              "pendingWorkPriority": 1,
+              "ref": null,
+              "return": null,
+              "sibling": null,
+              "stateNode": Object {
+                "containerInfo": <div />,
+                "context": Object {},
+                "current": [Circular],
+                "isScheduled": false,
+                "nextScheduledRoot": null,
+                "pendingContext": null,
+              },
+              "tag": 3,
+              "type": null,
+              "updateQueue": Object {
+                "callbackList": null,
+                "first": Object {
+                  "callback": null,
+                  "isForced": false,
+                  "isReplace": false,
+                  "isTopLevelUnmount": false,
+                  "next": null,
+                  "partialState": Object {
+                    "element": <WrapperComponent
+                      Component={[Function]}
+                      context={null}
+                      props={
+                        Object {
+                          "children": [Function],
+                          "onToggle": [Function],
+                          "render": [Function],
+                        }
+                      }
+                    />,
+                  },
+                  "priorityLevel": 1,
+                },
+                "hasForceUpdate": false,
+                "isProcessing": false,
+                "last": Object {
+                  "callback": null,
+                  "isForced": false,
+                  "isReplace": false,
+                  "isTopLevelUnmount": false,
+                  "next": null,
+                  "partialState": Object {
+                    "element": <WrapperComponent
+                      Component={[Function]}
+                      context={null}
+                      props={
+                        Object {
+                          "children": [Function],
+                          "onToggle": [Function],
+                          "render": [Function],
+                        }
+                      }
+                    />,
+                  },
+                  "priorityLevel": 1,
+                },
+              },
+            },
+            "child": [Circular],
+            "effectTag": 0,
+            "firstEffect": null,
+            "index": 0,
+            "internalContextTag": 0,
+            "key": null,
+            "lastEffect": null,
+            "memoizedProps": null,
+            "memoizedState": Object {
+              "element": <WrapperComponent
+                Component={[Function]}
+                context={null}
+                props={
+                  Object {
+                    "children": [Function],
+                    "onToggle": [Function],
+                    "render": [Function],
+                  }
+                }
+              />,
+            },
+            "nextEffect": null,
+            "pendingProps": null,
+            "pendingWorkPriority": 0,
+            "ref": null,
+            "return": null,
+            "sibling": null,
+            "stateNode": Object {
+              "containerInfo": <div />,
+              "context": Object {},
+              "current": [Circular],
+              "isScheduled": false,
+              "nextScheduledRoot": null,
+              "pendingContext": null,
+            },
+            "tag": 3,
+            "type": null,
+            "updateQueue": null,
+          },
+          "sibling": null,
+          "stateNode": WrapperComponent {
+            "_reactInternalFiber": [Circular],
+            "_reactInternalInstance": Object {},
+            "context": Object {},
+            "props": Object {
+              "Component": [Function],
+              "context": null,
+              "props": Object {
+                "children": [Function],
+                "onToggle": [Function],
+                "render": [Function],
+              },
+            },
+            "refs": Object {},
+            "state": Object {
+              "context": null,
+              "mount": true,
+              "props": Object {
+                "children": [Function],
+                "onToggle": [Function],
+                "render": [Function],
+              },
+            },
+            "updater": Object {
+              "enqueueForceUpdate": [Function],
+              "enqueueReplaceState": [Function],
+              "enqueueSetState": [Function],
+              "isMounted": [Function],
+            },
+          },
+          "tag": 2,
+          "type": [Function],
+          "updateQueue": null,
+        },
+        "sibling": null,
+        "stateNode": [Circular],
+        "tag": 2,
+        "type": [Function],
+        "updateQueue": null,
+      },
+      "_reactInternalInstance": Object {},
+      "context": Object {},
+      "props": Object {
+        "children": [Function],
+        "onToggle": [Function],
+        "render": [Function],
+      },
+      "refs": Object {},
+      "state": Object {
+        "on": false,
+      },
+      "toggle": [Function],
+      "updater": Object {
+        "enqueueForceUpdate": [Function],
+        "enqueueReplaceState": [Function],
+        "enqueueSetState": [Function],
+        "isMounted": [Function],
+      },
+    },
+    "key": null,
+    "nodeType": "class",
+    "props": Object {
+      "children": [Function],
+      "onToggle": [Function],
+      "render": [Function],
+    },
+    "ref": null,
+    "rendered": null,
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": Toggle {
+        "_reactInternalFiber": FiberNode {
+          "_debugID": 4,
+          "_debugIsCurrentlyTiming": false,
+          "_debugOwner": FiberNode {
+            "_debugID": 3,
+            "_debugIsCurrentlyTiming": false,
+            "_debugOwner": null,
+            "_debugSource": null,
+            "alternate": null,
+            "child": [Circular],
+            "effectTag": 1,
+            "firstEffect": null,
+            "index": 0,
+            "internalContextTag": 0,
+            "key": null,
+            "lastEffect": null,
+            "memoizedProps": Object {
+              "Component": [Function],
+              "context": null,
+              "props": Object {
+                "children": [Function],
+                "onToggle": [Function],
+                "render": [Function],
+              },
+            },
+            "memoizedState": Object {
+              "context": null,
+              "mount": true,
+              "props": Object {
+                "children": [Function],
+                "onToggle": [Function],
+                "render": [Function],
+              },
+            },
+            "nextEffect": null,
+            "pendingProps": null,
+            "pendingWorkPriority": 0,
+            "ref": null,
+            "return": FiberNode {
+              "_debugID": 1,
+              "_debugIsCurrentlyTiming": false,
+              "_debugOwner": null,
+              "_debugSource": null,
+              "alternate": FiberNode {
+                "_debugID": 1,
+                "_debugIsCurrentlyTiming": false,
+                "_debugOwner": null,
+                "_debugSource": null,
+                "alternate": [Circular],
+                "child": null,
+                "effectTag": 0,
+                "firstEffect": null,
+                "index": 0,
+                "internalContextTag": 0,
+                "key": null,
+                "lastEffect": null,
+                "memoizedProps": null,
+                "memoizedState": null,
+                "nextEffect": null,
+                "pendingProps": null,
+                "pendingWorkPriority": 1,
+                "ref": null,
+                "return": null,
+                "sibling": null,
+                "stateNode": Object {
+                  "containerInfo": <div />,
+                  "context": Object {},
+                  "current": [Circular],
+                  "isScheduled": false,
+                  "nextScheduledRoot": null,
+                  "pendingContext": null,
+                },
+                "tag": 3,
+                "type": null,
+                "updateQueue": Object {
+                  "callbackList": null,
+                  "first": Object {
+                    "callback": null,
+                    "isForced": false,
+                    "isReplace": false,
+                    "isTopLevelUnmount": false,
+                    "next": null,
+                    "partialState": Object {
+                      "element": <WrapperComponent
+                        Component={[Function]}
+                        context={null}
+                        props={
+                          Object {
+                            "children": [Function],
+                            "onToggle": [Function],
+                            "render": [Function],
+                          }
+                        }
+                      />,
+                    },
+                    "priorityLevel": 1,
+                  },
+                  "hasForceUpdate": false,
+                  "isProcessing": false,
+                  "last": Object {
+                    "callback": null,
+                    "isForced": false,
+                    "isReplace": false,
+                    "isTopLevelUnmount": false,
+                    "next": null,
+                    "partialState": Object {
+                      "element": <WrapperComponent
+                        Component={[Function]}
+                        context={null}
+                        props={
+                          Object {
+                            "children": [Function],
+                            "onToggle": [Function],
+                            "render": [Function],
+                          }
+                        }
+                      />,
+                    },
+                    "priorityLevel": 1,
+                  },
+                },
+              },
+              "child": [Circular],
+              "effectTag": 0,
+              "firstEffect": null,
+              "index": 0,
+              "internalContextTag": 0,
+              "key": null,
+              "lastEffect": null,
+              "memoizedProps": null,
+              "memoizedState": Object {
+                "element": <WrapperComponent
+                  Component={[Function]}
+                  context={null}
+                  props={
+                    Object {
+                      "children": [Function],
+                      "onToggle": [Function],
+                      "render": [Function],
+                    }
+                  }
+                />,
+              },
+              "nextEffect": null,
+              "pendingProps": null,
+              "pendingWorkPriority": 0,
+              "ref": null,
+              "return": null,
+              "sibling": null,
+              "stateNode": Object {
+                "containerInfo": <div />,
+                "context": Object {},
+                "current": [Circular],
+                "isScheduled": false,
+                "nextScheduledRoot": null,
+                "pendingContext": null,
+              },
+              "tag": 3,
+              "type": null,
+              "updateQueue": null,
+            },
+            "sibling": null,
+            "stateNode": WrapperComponent {
+              "_reactInternalFiber": [Circular],
+              "_reactInternalInstance": Object {},
+              "context": Object {},
+              "props": Object {
+                "Component": [Function],
+                "context": null,
+                "props": Object {
+                  "children": [Function],
+                  "onToggle": [Function],
+                  "render": [Function],
+                },
+              },
+              "refs": Object {},
+              "state": Object {
+                "context": null,
+                "mount": true,
+                "props": Object {
+                  "children": [Function],
+                  "onToggle": [Function],
+                  "render": [Function],
+                },
+              },
+              "updater": Object {
+                "enqueueForceUpdate": [Function],
+                "enqueueReplaceState": [Function],
+                "enqueueSetState": [Function],
+                "isMounted": [Function],
+              },
+            },
+            "tag": 2,
+            "type": [Function],
+            "updateQueue": null,
+          },
+          "_debugSource": null,
+          "alternate": null,
+          "child": null,
+          "effectTag": 1,
+          "firstEffect": null,
+          "index": 0,
+          "internalContextTag": 0,
+          "key": null,
+          "lastEffect": null,
+          "memoizedProps": Object {
+            "children": [Function],
+            "onToggle": [Function],
+            "render": [Function],
+          },
+          "memoizedState": Object {
+            "on": false,
+          },
+          "nextEffect": null,
+          "pendingProps": null,
+          "pendingWorkPriority": 0,
+          "ref": null,
+          "return": FiberNode {
+            "_debugID": 3,
+            "_debugIsCurrentlyTiming": false,
+            "_debugOwner": null,
+            "_debugSource": null,
+            "alternate": null,
+            "child": [Circular],
+            "effectTag": 1,
+            "firstEffect": null,
+            "index": 0,
+            "internalContextTag": 0,
+            "key": null,
+            "lastEffect": null,
+            "memoizedProps": Object {
+              "Component": [Function],
+              "context": null,
+              "props": Object {
+                "children": [Function],
+                "onToggle": [Function],
+                "render": [Function],
+              },
+            },
+            "memoizedState": Object {
+              "context": null,
+              "mount": true,
+              "props": Object {
+                "children": [Function],
+                "onToggle": [Function],
+                "render": [Function],
+              },
+            },
+            "nextEffect": null,
+            "pendingProps": null,
+            "pendingWorkPriority": 0,
+            "ref": null,
+            "return": FiberNode {
+              "_debugID": 1,
+              "_debugIsCurrentlyTiming": false,
+              "_debugOwner": null,
+              "_debugSource": null,
+              "alternate": FiberNode {
+                "_debugID": 1,
+                "_debugIsCurrentlyTiming": false,
+                "_debugOwner": null,
+                "_debugSource": null,
+                "alternate": [Circular],
+                "child": null,
+                "effectTag": 0,
+                "firstEffect": null,
+                "index": 0,
+                "internalContextTag": 0,
+                "key": null,
+                "lastEffect": null,
+                "memoizedProps": null,
+                "memoizedState": null,
+                "nextEffect": null,
+                "pendingProps": null,
+                "pendingWorkPriority": 1,
+                "ref": null,
+                "return": null,
+                "sibling": null,
+                "stateNode": Object {
+                  "containerInfo": <div />,
+                  "context": Object {},
+                  "current": [Circular],
+                  "isScheduled": false,
+                  "nextScheduledRoot": null,
+                  "pendingContext": null,
+                },
+                "tag": 3,
+                "type": null,
+                "updateQueue": Object {
+                  "callbackList": null,
+                  "first": Object {
+                    "callback": null,
+                    "isForced": false,
+                    "isReplace": false,
+                    "isTopLevelUnmount": false,
+                    "next": null,
+                    "partialState": Object {
+                      "element": <WrapperComponent
+                        Component={[Function]}
+                        context={null}
+                        props={
+                          Object {
+                            "children": [Function],
+                            "onToggle": [Function],
+                            "render": [Function],
+                          }
+                        }
+                      />,
+                    },
+                    "priorityLevel": 1,
+                  },
+                  "hasForceUpdate": false,
+                  "isProcessing": false,
+                  "last": Object {
+                    "callback": null,
+                    "isForced": false,
+                    "isReplace": false,
+                    "isTopLevelUnmount": false,
+                    "next": null,
+                    "partialState": Object {
+                      "element": <WrapperComponent
+                        Component={[Function]}
+                        context={null}
+                        props={
+                          Object {
+                            "children": [Function],
+                            "onToggle": [Function],
+                            "render": [Function],
+                          }
+                        }
+                      />,
+                    },
+                    "priorityLevel": 1,
+                  },
+                },
+              },
+              "child": [Circular],
+              "effectTag": 0,
+              "firstEffect": null,
+              "index": 0,
+              "internalContextTag": 0,
+              "key": null,
+              "lastEffect": null,
+              "memoizedProps": null,
+              "memoizedState": Object {
+                "element": <WrapperComponent
+                  Component={[Function]}
+                  context={null}
+                  props={
+                    Object {
+                      "children": [Function],
+                      "onToggle": [Function],
+                      "render": [Function],
+                    }
+                  }
+                />,
+              },
+              "nextEffect": null,
+              "pendingProps": null,
+              "pendingWorkPriority": 0,
+              "ref": null,
+              "return": null,
+              "sibling": null,
+              "stateNode": Object {
+                "containerInfo": <div />,
+                "context": Object {},
+                "current": [Circular],
+                "isScheduled": false,
+                "nextScheduledRoot": null,
+                "pendingContext": null,
+              },
+              "tag": 3,
+              "type": null,
+              "updateQueue": null,
+            },
+            "sibling": null,
+            "stateNode": WrapperComponent {
+              "_reactInternalFiber": [Circular],
+              "_reactInternalInstance": Object {},
+              "context": Object {},
+              "props": Object {
+                "Component": [Function],
+                "context": null,
+                "props": Object {
+                  "children": [Function],
+                  "onToggle": [Function],
+                  "render": [Function],
+                },
+              },
+              "refs": Object {},
+              "state": Object {
+                "context": null,
+                "mount": true,
+                "props": Object {
+                  "children": [Function],
+                  "onToggle": [Function],
+                  "render": [Function],
+                },
+              },
+              "updater": Object {
+                "enqueueForceUpdate": [Function],
+                "enqueueReplaceState": [Function],
+                "enqueueSetState": [Function],
+                "isMounted": [Function],
+              },
+            },
+            "tag": 2,
+            "type": [Function],
+            "updateQueue": null,
+          },
+          "sibling": null,
+          "stateNode": [Circular],
+          "tag": 2,
+          "type": [Function],
+          "updateQueue": null,
+        },
+        "_reactInternalInstance": Object {},
+        "context": Object {},
+        "props": Object {
+          "children": [Function],
+          "onToggle": [Function],
+          "render": [Function],
+        },
+        "refs": Object {},
+        "state": Object {
+          "on": false,
+        },
+        "toggle": [Function],
+        "updater": Object {
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+        },
+      },
+      "key": null,
+      "nodeType": "class",
+      "props": Object {
+        "children": [Function],
+        "onToggle": [Function],
+        "render": [Function],
+      },
+      "ref": null,
+      "rendered": null,
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
