@@ -1,4 +1,4 @@
-# react-toggler
+# react-togglr
 
 React library for building declarative toggle components
 
