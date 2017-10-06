@@ -1,9 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Toggle renders its children 1`] = `
+exports[`Toggle with no props renders its children 1`] = `
 ReactWrapper {
   "length": 1,
   Symbol(enzyme.__unrendered__): <Toggle
+    defaultOn={false}
     onToggle={[Function]}
     render={[Function]}
   >
@@ -40,6 +41,7 @@ ReactWrapper {
             "context": null,
             "props": Object {
               "children": [Function],
+              "defaultOn": false,
               "onToggle": [Function],
               "render": [Function],
             },
@@ -49,6 +51,7 @@ ReactWrapper {
             "mount": true,
             "props": Object {
               "children": [Function],
+              "defaultOn": false,
               "onToggle": [Function],
               "render": [Function],
             },
@@ -108,6 +111,7 @@ ReactWrapper {
                       props={
                         Object {
                           "children": [Function],
+                          "defaultOn": false,
                           "onToggle": [Function],
                           "render": [Function],
                         }
@@ -131,6 +135,7 @@ ReactWrapper {
                       props={
                         Object {
                           "children": [Function],
+                          "defaultOn": false,
                           "onToggle": [Function],
                           "render": [Function],
                         }
@@ -156,6 +161,7 @@ ReactWrapper {
                 props={
                   Object {
                     "children": [Function],
+                    "defaultOn": false,
                     "onToggle": [Function],
                     "render": [Function],
                   }
@@ -190,6 +196,7 @@ ReactWrapper {
               "context": null,
               "props": Object {
                 "children": [Function],
+                "defaultOn": false,
                 "onToggle": [Function],
                 "render": [Function],
               },
@@ -200,6 +207,7 @@ ReactWrapper {
               "mount": true,
               "props": Object {
                 "children": [Function],
+                "defaultOn": false,
                 "onToggle": [Function],
                 "render": [Function],
               },
@@ -226,6 +234,7 @@ ReactWrapper {
         "lastEffect": null,
         "memoizedProps": Object {
           "children": [Function],
+          "defaultOn": false,
           "onToggle": [Function],
           "render": [Function],
         },
@@ -254,6 +263,7 @@ ReactWrapper {
             "context": null,
             "props": Object {
               "children": [Function],
+              "defaultOn": false,
               "onToggle": [Function],
               "render": [Function],
             },
@@ -263,6 +273,7 @@ ReactWrapper {
             "mount": true,
             "props": Object {
               "children": [Function],
+              "defaultOn": false,
               "onToggle": [Function],
               "render": [Function],
             },
@@ -322,6 +333,7 @@ ReactWrapper {
                       props={
                         Object {
                           "children": [Function],
+                          "defaultOn": false,
                           "onToggle": [Function],
                           "render": [Function],
                         }
@@ -345,6 +357,7 @@ ReactWrapper {
                       props={
                         Object {
                           "children": [Function],
+                          "defaultOn": false,
                           "onToggle": [Function],
                           "render": [Function],
                         }
@@ -370,6 +383,7 @@ ReactWrapper {
                 props={
                   Object {
                     "children": [Function],
+                    "defaultOn": false,
                     "onToggle": [Function],
                     "render": [Function],
                   }
@@ -404,6 +418,7 @@ ReactWrapper {
               "context": null,
               "props": Object {
                 "children": [Function],
+                "defaultOn": false,
                 "onToggle": [Function],
                 "render": [Function],
               },
@@ -414,6 +429,7 @@ ReactWrapper {
               "mount": true,
               "props": Object {
                 "children": [Function],
+                "defaultOn": false,
                 "onToggle": [Function],
                 "render": [Function],
               },
@@ -439,6 +455,7 @@ ReactWrapper {
       "context": Object {},
       "props": Object {
         "children": [Function],
+        "defaultOn": false,
         "onToggle": [Function],
         "render": [Function],
       },
@@ -458,6 +475,7 @@ ReactWrapper {
     "nodeType": "class",
     "props": Object {
       "children": [Function],
+      "defaultOn": false,
       "onToggle": [Function],
       "render": [Function],
     },
@@ -489,6 +507,7 @@ ReactWrapper {
               "context": null,
               "props": Object {
                 "children": [Function],
+                "defaultOn": false,
                 "onToggle": [Function],
                 "render": [Function],
               },
@@ -498,6 +517,7 @@ ReactWrapper {
               "mount": true,
               "props": Object {
                 "children": [Function],
+                "defaultOn": false,
                 "onToggle": [Function],
                 "render": [Function],
               },
@@ -557,6 +577,7 @@ ReactWrapper {
                         props={
                           Object {
                             "children": [Function],
+                            "defaultOn": false,
                             "onToggle": [Function],
                             "render": [Function],
                           }
@@ -580,6 +601,7 @@ ReactWrapper {
                         props={
                           Object {
                             "children": [Function],
+                            "defaultOn": false,
                             "onToggle": [Function],
                             "render": [Function],
                           }
@@ -605,6 +627,7 @@ ReactWrapper {
                   props={
                     Object {
                       "children": [Function],
+                      "defaultOn": false,
                       "onToggle": [Function],
                       "render": [Function],
                     }
@@ -639,6 +662,7 @@ ReactWrapper {
                 "context": null,
                 "props": Object {
                   "children": [Function],
+                  "defaultOn": false,
                   "onToggle": [Function],
                   "render": [Function],
                 },
@@ -649,6 +673,7 @@ ReactWrapper {
                 "mount": true,
                 "props": Object {
                   "children": [Function],
+                  "defaultOn": false,
                   "onToggle": [Function],
                   "render": [Function],
                 },
@@ -675,6 +700,7 @@ ReactWrapper {
           "lastEffect": null,
           "memoizedProps": Object {
             "children": [Function],
+            "defaultOn": false,
             "onToggle": [Function],
             "render": [Function],
           },
@@ -703,6 +729,7 @@ ReactWrapper {
               "context": null,
               "props": Object {
                 "children": [Function],
+                "defaultOn": false,
                 "onToggle": [Function],
                 "render": [Function],
               },
@@ -712,6 +739,7 @@ ReactWrapper {
               "mount": true,
               "props": Object {
                 "children": [Function],
+                "defaultOn": false,
                 "onToggle": [Function],
                 "render": [Function],
               },
@@ -771,6 +799,7 @@ ReactWrapper {
                         props={
                           Object {
                             "children": [Function],
+                            "defaultOn": false,
                             "onToggle": [Function],
                             "render": [Function],
                           }
@@ -794,6 +823,7 @@ ReactWrapper {
                         props={
                           Object {
                             "children": [Function],
+                            "defaultOn": false,
                             "onToggle": [Function],
                             "render": [Function],
                           }
@@ -819,6 +849,7 @@ ReactWrapper {
                   props={
                     Object {
                       "children": [Function],
+                      "defaultOn": false,
                       "onToggle": [Function],
                       "render": [Function],
                     }
@@ -853,6 +884,7 @@ ReactWrapper {
                 "context": null,
                 "props": Object {
                   "children": [Function],
+                  "defaultOn": false,
                   "onToggle": [Function],
                   "render": [Function],
                 },
@@ -863,6 +895,7 @@ ReactWrapper {
                 "mount": true,
                 "props": Object {
                   "children": [Function],
+                  "defaultOn": false,
                   "onToggle": [Function],
                   "render": [Function],
                 },
@@ -888,6 +921,7 @@ ReactWrapper {
         "context": Object {},
         "props": Object {
           "children": [Function],
+          "defaultOn": false,
           "onToggle": [Function],
           "render": [Function],
         },
@@ -907,6 +941,7 @@ ReactWrapper {
       "nodeType": "class",
       "props": Object {
         "children": [Function],
+        "defaultOn": false,
         "onToggle": [Function],
         "render": [Function],
       },
