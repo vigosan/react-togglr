@@ -1,8 +1,9 @@
-import React, { Component } from 'react';
+import { Component } from 'react';
 import PropTypes from 'prop-types';
 
 class Toggle extends Component {
   static propTypes = {
+    children: PropTypes.func,
     defaultOn: PropTypes.bool,
     render: PropTypes.func,
     onToggle: PropTypes.func

@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { mount } from 'enzyme';
 import Toggle from './Toggle';
 
@@ -55,7 +54,7 @@ describe('Toggle', () => {
     it('starts at given status', () => {
       mount(
         <Toggle
-          defaultOn={true}
+          defaultOn
           render={({ on: tOn }) => {
             on = tOn;
 
